@@ -1,88 +1,164 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=Kamal%20Reddy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=I%20build%20products%20that%20think.&descAlignY=56&descSize=19" alt="Kamal Reddy header" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Kamal Reddy — signal to intelligence to story" />
 </p>
 
 <p align="center">
-  <a href="https://kamrede.page/"><img src="https://img.shields.io/badge/Portfolio-kamrede.page-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/kamal-reddy-bbab6731a/"><img src="https://img.shields.io/badge/LinkedIn-Kamal_Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kamalreddi2901@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <strong>Kamal Reddy</strong> · Electronics & Communication Engineering · Bengaluru
 </p>
 
-## I build products that think.
+<p align="center">
+  <a href="https://kamrede.page/">portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kamal-reddy-bbab6731a/">linkedin</a> &nbsp;·&nbsp;
+  <a href="mailto:kamalreddi2901@gmail.com">email</a>
+</p>
 
-I am an Electronics and Communications Engineering student at **BMS Institute of Technology and Management**, Bengaluru, designing systems across AI, native macOS apps, browser extensions, and privacy-first software.
+<br/>
 
-My pattern is simple: find a problem worth solving, make the hard parts understandable, and ship a product people can actually use.
+## I like building the part behind the button.
 
-- Building **CareerCase**, an explainable career exploration system for India
-- Exploring cognitive health through **Reflex**, a native macOS load monitor
-- Curation Lead at **TEDxBMSITM** and Club Service Director at **Rotaract Club of BMS Yelahanka**
-- Interested in AI systems, decision intelligence, civic technology, and thoughtful product design
+Interfaces matter. But the work I find most interesting is underneath them: **how a system reasons, what evidence it trusts, how it handles uncertainty, and whether the product remains useful when the demo ends.**
 
-## Selected work
+I study ECE at **BMS Institute of Technology & Management** and build across AI systems, decision tools, local-first software, civic tech, and experimental interfaces.
+
+```text
+input        noisy problem
+process      understand → model → prototype → test
+output       something clear enough to use
+bias         useful > flashy, explainable > magical, shipped > hypothetical
+```
+
+### CURRENT SIGNAL
+
+**CareerCase** — an explainable career exploration system for India. Its recommendation engine uses a versioned, deterministic **11-component matching model**, while AI is reserved for assisted exploration and explanation rather than silently deciding the score.
+
+[open live product ↗](https://careercase.pages.dev/) · [inspect the system ↗](https://github.com/KamalReddy2901/AI-Enhanced-Career-Guidance-System-for-Personalized-Career-Pathways)
+
+---
+
+## Selected transmissions
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/KamalReddy2901/AI-Enhanced-Career-Guidance-System-for-Personalized-Career-Pathways">CareerCase</a></h3>
-<p>Explainable career matching, AI simulations, personalized roadmaps, and a portable Career Passport for students in India.</p>
-<p><code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>Cloudflare</code></p>
-<a href="https://careercase.pages.dev/">Live product</a> | <a href="https://github.com/KamalReddy2901/AI-Enhanced-Career-Guidance-System-for-Personalized-Career-Pathways">Source</a>
+
+### [CareerCase](https://github.com/KamalReddy2901/AI-Enhanced-Career-Guidance-System-for-Personalized-Career-Pathways)
+
+**Career decisions that show their work.**  
+Explainable matching, assessments, skill-gap analysis, pathways, simulations, and a portable Career Passport.
+
+`React` `TypeScript` `Supabase` `Cloudflare`
+
+[Live ↗](https://careercase.pages.dev/)
+
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/KamalReddy2901/reflex-app">Reflex</a></h3>
-<p>A native macOS menu bar app that senses cognitive overload from interaction patterns and intervenes before burnout.</p>
-<p><code>Swift</code> <code>SwiftUI</code> <code>Combine</code> <code>Core ML</code></p>
-<a href="https://reflexapp.pages.dev/">Product page</a> | <a href="https://github.com/KamalReddy2901/reflex-app">Source</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/KamalReddy2901/factchecker-ai">FactChecker AI</a></h3>
-<p>A browser extension that turns selected text or screenshots into grounded verdicts with confidence scores and cited sources.</p>
-<p><code>WXT</code> <code>React</code> <code>TypeScript</code> <code>Gemini</code></p>
-<a href="https://factchecker-ai.pages.dev/">Product page</a> | <a href="https://github.com/KamalReddy2901/factchecker-ai">Source</a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/KamalReddy2901/PALS_Kamal">Urban Heat Intelligence</a></h3>
-<p>A ward-level decision engine that helps Bengaluru planners diagnose heat vulnerability and simulate cooling interventions.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Leaflet</code> <code>Recharts</code></p>
-<a href="https://pals-kamal.pages.dev/">Live product</a> | <a href="https://github.com/KamalReddy2901/PALS_Kamal">Source</a>
+
+### [Reflex](https://github.com/KamalReddy2901/reflex-app)
+
+**A calmer relationship with your computer.**  
+A native macOS experiment around detecting cognitive overload from interaction patterns and surfacing useful interventions.
+
+`Swift` `SwiftUI` `Combine` `Core ML`
+
+[Product ↗](https://reflexapp.pages.dev/)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/KamalReddy2901/nexus">Nexus</a></h3>
-<p>A fully local AI second brain with file ingestion, a knowledge graph, multi-hop RAG, and private on-device models.</p>
-<p><code>Tauri</code> <code>Ollama</code> <code>ChromaDB</code> <code>SQLite</code></p>
-<a href="https://github.com/KamalReddy2901/nexus">Explore source</a>
+
+### [FactChecker AI](https://github.com/KamalReddy2901/factchecker-ai)
+
+**Verification without leaving the page.**  
+A browser extension that turns selected text or screenshots into grounded verdicts with confidence and cited evidence.
+
+`WXT` `React` `TypeScript` `Gemini`
+
+[Product ↗](https://factchecker-ai.pages.dev/)
+
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/KamalReddy2901/varanasi">Varanasi Formats</a></h3>
-<p>A cinematic, adaptive-streaming web experience with multi-resolution HLS playback and immersive visual direction.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>HLS.js</code> <code>Tailwind</code></p>
-<a href="https://varanasiformats.pages.dev/">Live product</a> | <a href="https://github.com/KamalReddy2901/varanasi">Source</a>
+
+### [Urban Heat Intelligence](https://github.com/KamalReddy2901/PALS_Kamal)
+
+**From heat maps to decisions.**  
+A ward-level system for diagnosing Bengaluru heat vulnerability and comparing possible cooling interventions.
+
+`Next.js` `TypeScript` `Leaflet` `Recharts`
+
+[Live ↗](https://pals-kamal.pages.dev/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Nexus](https://github.com/KamalReddy2901/nexus)
+
+**A second brain that can stay on your machine.**  
+Local file ingestion, knowledge graphs, multi-hop retrieval, and private on-device models.
+
+`Tauri` `Ollama` `ChromaDB` `SQLite`
+
+[Source ↗](https://github.com/KamalReddy2901/nexus)
+
+</td>
+<td width="50%" valign="top">
+
+### [Varanasi Formats](https://github.com/KamalReddy2901/varanasi)
+
+**Engineering in service of atmosphere.**  
+A cinematic adaptive-streaming web experience built around multi-resolution HLS playback and visual direction.
+
+`Next.js` `TypeScript` `HLS.js` `Tailwind`
+
+[Live ↗](https://varanasiformats.pages.dev/)
+
 </td>
 </tr>
 </table>
 
-<p align="center"><a href="https://kamrede.page/#projects"><strong>See all 12 builds on my portfolio</strong></a></p>
-
-## Tools I reach for
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,swift,python,kotlin,tailwind,supabase,cloudflare,tauri,git,figma&perline=13" alt="Technology stack" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KamalReddy2901&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" alt="Kamal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalReddy2901&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Kamal's top languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalReddy2901&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true" alt="Contribution activity graph" />
+  <a href="https://kamrede.page/#projects"><strong>12 builds, experiments & prototypes →</strong></a>
 </p>
 
 ---
 
-<p align="center"><strong>Curious mind. Fast prototypes. Serious follow-through.</strong></p>
+## The three lenses I keep coming back to
+
+| `SIGNAL` | `SYSTEM` | `STORY` |
+|:--|:--|:--|
+| What is actually happening beneath the noise? | How do the pieces interact, fail, recover and scale? | Can a human understand why this matters? |
+| ECE · data · sensing · evidence | AI · architecture · product logic | interfaces · cinema · communication |
+
+That overlap is the thread through most of what I build.
+
+## Tools on the bench
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,swift,python,kotlin,tailwind,supabase,cloudflare,tauri,git,figma&perline=13" alt="TypeScript, JavaScript, React, Next.js, Swift, Python, Kotlin, Tailwind, Supabase, Cloudflare, Tauri, Git and Figma" />
+</p>
+
+<details>
+<summary><strong>What I care about more than the stack</strong></summary>
+<br/>
+
+- making AI behavior inspectable instead of mystical
+- keeping product logic separate from generative output when it should be
+- designing demos that survive contact with real users
+- local-first and privacy-conscious architecture where it makes sense
+- interfaces with a point of view, not generic dashboard chrome
+
+</details>
+
+<br/>
+
+## Off-screen
+
+I also work on curation at **TEDxBMSITM**, serve with the **Rotaract Club of BMS Yelahanka**, and spend an unreasonable amount of time thinking about cinema, product decisions, and why some ideas feel inevitable only *after* somebody ships them.
+
+---
+
+<p align="center">
+  <sub>find the signal · understand the system · tell the story</sub>
+</p>
